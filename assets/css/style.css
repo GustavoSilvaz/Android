@@ -138,15 +138,15 @@ main p {
 main strong {
     color: var(--cor4);
     font-weight: bold;
-    padding: 2px 6px;
+    padding: 1px 3px;
 }
 
 main a {
     text-decoration: none;
     font-weight: bold;
     color: 5;
-    padding: 2px 6px;
-    background-color: var(--cor1);
+    padding: 0px 4px;
+    background-color: #83E1AD;
 }
 
 main a:hover {
