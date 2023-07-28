@@ -1,3 +1,3 @@
 # Android
 ## História do android
-Site de notícia responsivo usando CSS e HTLM
+Site de notícia responsivo em desenvolvimento equanto faço curso de html e css
