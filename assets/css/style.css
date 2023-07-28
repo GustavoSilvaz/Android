@@ -56,10 +56,7 @@ body {
     font-family: var(--fonte-padrao);
 }
 
-a.externo::after {
     content: "\00A0\1F517";
-}
-
 
 
 header {
@@ -145,8 +142,11 @@ main a {
     text-decoration: none;
     font-weight: bold;
     color: 5;
+<<<<<<< Updated upstream
     padding: 0px 4px;
     background-color: #83E1AD;
+=======
+>>>>>>> Stashed changes
 }
 
 main a:hover {
